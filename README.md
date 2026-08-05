@@ -1,2 +1,2 @@
-# CodSoft_task2
+# Landing Page
 This is a landing page website of BMW Bikes.
