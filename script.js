@@ -6,7 +6,7 @@ let container = document.querySelector(".container");
 
 redbtn.addEventListener("click", function () {
     container.style.backgroundImage = "url('BMW_bike_img/g310gsracingred.png')";
-});
+}); //image of bike 1
 goldbtn.addEventListener("click", function () {
     container.style.backgroundImage = "url('BMW_bike_img/g310gskalamatadarkgoldmetallic.png')";
 });
