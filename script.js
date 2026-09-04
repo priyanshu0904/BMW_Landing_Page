@@ -12,7 +12,7 @@ goldbtn.addEventListener("click", function () {
 }); //image of bike 2
 blackbtn.addEventListener("click", function () {    
     container.style.backgroundImage = "url('BMW_bike_img/g310gscosmicblack3.png')";
-});
+}); //image of bike 3
 bluebtn.addEventListener("click", function () {    
     container.style.backgroundImage = "url('BMW_bike_img/g310gspolarwhiteracingbluemetallic.png')";
 });
